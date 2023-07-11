@@ -8,6 +8,7 @@ num1 = int(input(f'{name1} shart boyicha raqamni kiriting: '))
 num2 = int(input(f'{name2} shart boyicha raqamni kiriting: '))
 if num1 == 1 and num2 == 2:
     print(f'Qaychi qogozni yutadi {name1} g`olib bo`ldi!')
+    
 elif num1 == 1 and num2 == 3:
     print(f'Tosh qaychini yutadi {name2} g`olib bo`ldi!')
 elif num1 == 2 and num2 == 1:
